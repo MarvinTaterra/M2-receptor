@@ -3,7 +3,7 @@
 This repository contains the files and scripts used in the work *M2-Receptor: From the Ground Up* (2025). The folder `A100_OPES` includes the necessary files to replicate the system setup for any Class A GPCR.
 
 If you use any scripts or ideas from this work in your publication, please cite this GitHub repository until the M2 paper is published, as follows:  
-**Taterra, M., Bermúdez, M., A100 - On-the-fly Probability Enhanced Sampling (OPES).** [GitHub Repository]([https://github.com/MarvinTaterra/M2-receptor))
+**Taterra, M., Bermúdez, M., A100 - On-the-fly Probability Enhanced Sampling (OPES).** (https://github.com/MarvinTaterra/M2-receptor)
 
 Please cite the following paper for the creation of the A100 score:  
 **Ibrahim, P., Wifling, D., & Clark, T. (2019).** Universal Activation Index for Class A GPCRs. *Journal of Chemical Information and Modeling*, 59(9), 3938–3945. [https://doi.org/10.1021/acs.jcim.9b00604](https://doi.org/10.1021/acs.jcim.9b00604)
